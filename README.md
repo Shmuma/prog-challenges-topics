@@ -4,6 +4,8 @@
 
 https://cses.fi/book.html, chapter 9
 
+http://codeforces.com/blog/entry/22616
+
 Hackerrank:
 * https://www.hackerrank.com/challenges/range-minimum-query (Only FP languages)
 * https://www.hackerrank.com/contests/techsoc-opc/challenges/range-sum-queries
